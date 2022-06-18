@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RoverApp.Validators
 {
-    public class Validate : IValidator
+    public class Validator : IValidator
     {
         /// <summary>
         /// Send to Command Validate İs valid command  True or False Return
