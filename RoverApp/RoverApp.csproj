@@ -7,9 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Classes\Position\" />
-    <Folder Include="Classes\Plato\" />
-  </ItemGroup>
-
 </Project>
